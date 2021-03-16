@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-16T13:29:30 CET" name="Default suite" finished-at="2021-03-16T13:29:32 CET" duration-ms="2106">
+    <groups>
+    </groups>
+    <test started-at="2021-03-16T13:29:30 CET" name="Default test" finished-at="2021-03-16T13:29:32 CET" duration-ms="2106">
+      <class name="PlayersAPI.RestAssured.PlayersApiTests">
+        <test-method signature="testGetAll()[pri:1, instance:PlayersAPI.RestAssured.PlayersApiTests@62230c58]" started-at="2021-03-16T13:29:30 CET" name="testGetAll" finished-at="2021-03-16T13:29:31 CET" duration-ms="1213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAll -->
+        <test-method signature="testAddNew()[pri:2, instance:PlayersAPI.RestAssured.PlayersApiTests@62230c58]" started-at="2021-03-16T13:29:31 CET" name="testAddNew" finished-at="2021-03-16T13:29:32 CET" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddNew -->
+        <test-method signature="testGetById()[pri:3, instance:PlayersAPI.RestAssured.PlayersApiTests@62230c58]" started-at="2021-03-16T13:29:32 CET" name="testGetById" finished-at="2021-03-16T13:29:32 CET" duration-ms="421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetById -->
+        <test-method signature="testNegativeAddNew()[pri:4, instance:PlayersAPI.RestAssured.PlayersApiTests@62230c58]" started-at="2021-03-16T13:29:32 CET" name="testNegativeAddNew" finished-at="2021-03-16T13:29:32 CET" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNegativeAddNew -->
+        <test-method signature="testUpdateById()[pri:5, instance:PlayersAPI.RestAssured.PlayersApiTests@62230c58]" started-at="2021-03-16T13:29:32 CET" name="testUpdateById" finished-at="2021-03-16T13:29:32 CET" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateById -->
+        <test-method signature="testNegativeUpdateById()[pri:6, instance:PlayersAPI.RestAssured.PlayersApiTests@62230c58]" started-at="2021-03-16T13:29:32 CET" name="testNegativeUpdateById" finished-at="2021-03-16T13:29:32 CET" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNegativeUpdateById -->
+        <test-method signature="testDeleteById()[pri:7, instance:PlayersAPI.RestAssured.PlayersApiTests@62230c58]" started-at="2021-03-16T13:29:32 CET" name="testDeleteById" finished-at="2021-03-16T13:29:32 CET" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteById -->
+        <test-method signature="testNegativeDeleteById()[pri:8, instance:PlayersAPI.RestAssured.PlayersApiTests@62230c58]" started-at="2021-03-16T13:29:32 CET" name="testNegativeDeleteById" finished-at="2021-03-16T13:29:32 CET" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNegativeDeleteById -->
+      </class> <!-- PlayersAPI.RestAssured.PlayersApiTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
