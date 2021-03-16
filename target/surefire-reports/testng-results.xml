@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="2474" started-at="2021-03-16T13:58:30 CET" finished-at="2021-03-16T13:58:33 CET">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="2474" started-at="2021-03-16T13:58:30 CET" finished-at="2021-03-16T13:58:33 CET">
+      <class name="PlayersAPI.RestAssured.PlayersApiTests">
+        <test-method status="PASS" signature="testGetAll()[pri:1, instance:PlayersAPI.RestAssured.PlayersApiTests@6f1fba17]" name="testGetAll" duration-ms="1612" started-at="2021-03-16T13:58:30 CET" finished-at="2021-03-16T13:58:32 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAll -->
+        <test-method status="PASS" signature="testAddNew()[pri:2, instance:PlayersAPI.RestAssured.PlayersApiTests@6f1fba17]" name="testAddNew" duration-ms="285" started-at="2021-03-16T13:58:32 CET" finished-at="2021-03-16T13:58:32 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddNew -->
+        <test-method status="PASS" signature="testGetById()[pri:3, instance:PlayersAPI.RestAssured.PlayersApiTests@6f1fba17]" name="testGetById" duration-ms="447" started-at="2021-03-16T13:58:32 CET" finished-at="2021-03-16T13:58:33 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetById -->
+        <test-method status="PASS" signature="testNegativeAddNew()[pri:4, instance:PlayersAPI.RestAssured.PlayersApiTests@6f1fba17]" name="testNegativeAddNew" duration-ms="15" started-at="2021-03-16T13:58:33 CET" finished-at="2021-03-16T13:58:33 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNegativeAddNew -->
+        <test-method status="PASS" signature="testUpdateById()[pri:5, instance:PlayersAPI.RestAssured.PlayersApiTests@6f1fba17]" name="testUpdateById" duration-ms="36" started-at="2021-03-16T13:58:33 CET" finished-at="2021-03-16T13:58:33 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateById -->
+        <test-method status="PASS" signature="testNegativeUpdateById()[pri:6, instance:PlayersAPI.RestAssured.PlayersApiTests@6f1fba17]" name="testNegativeUpdateById" duration-ms="16" started-at="2021-03-16T13:58:33 CET" finished-at="2021-03-16T13:58:33 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNegativeUpdateById -->
+        <test-method status="PASS" signature="testDeleteById()[pri:7, instance:PlayersAPI.RestAssured.PlayersApiTests@6f1fba17]" name="testDeleteById" duration-ms="26" started-at="2021-03-16T13:58:33 CET" finished-at="2021-03-16T13:58:33 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteById -->
+        <test-method status="PASS" signature="testNegativeDeleteById()[pri:8, instance:PlayersAPI.RestAssured.PlayersApiTests@6f1fba17]" name="testNegativeDeleteById" duration-ms="10" started-at="2021-03-16T13:58:33 CET" finished-at="2021-03-16T13:58:33 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNegativeDeleteById -->
+      </class> <!-- PlayersAPI.RestAssured.PlayersApiTests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
